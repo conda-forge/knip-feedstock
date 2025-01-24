@@ -1,5 +1,5 @@
 context:
-  version: "5.43.1"
+  version: "5.43.3"
 
 package:
   name: knip
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/knip/-/knip-${{ version }}.tgz
-  sha256: 7ef5864bafedaf117909ff8697ea6838f5e848350ccf427f8e7d0011ce9b41fb
+  sha256: c43bf1e2d7fd686e92c7179fb668a0916da783d216b06fe5dc98276ab2fba543
 
 build:
   number: 0
